@@ -6,8 +6,6 @@
   <br>
   A simple todo app using Apache Cordova.
   <br>
+  <br>
+  Developed by: Jayson San Buenaventura | John Arnold Catedrilla
 </h1>
-<br>
-```
-Developed by: Jayson San Buenaventura | John Arnold Catedrilla
-```
